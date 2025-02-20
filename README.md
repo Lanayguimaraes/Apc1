@@ -49,5 +49,5 @@ gcc nome_do_arquivo.c -lm
 ./a.exe
 ```
 
-
+~~
 
